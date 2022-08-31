@@ -1,0 +1,12 @@
+Car Info:- 
+Plate No. : 1
+Price Per Day: 1.0
+Model: 1
+Color: 1
+Available: false
+Custormer Info:- 
+Id: 2
+Name: 2
+Phone: 1234123444
+Days: 1
+Total price: 1.0 SR
