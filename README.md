@@ -2,7 +2,8 @@
 
 This project is a Car Rental System implemented using Eclipse GUI and JAVA.
 
-You can download the code and run it from CarRentalSystem/project1/src/project1/CarsJFrame.java or simply 
+You can download the code and run it from CarRentalSystem/project1/src/project1/CarsJFrame.java or simply:
+1. clone the project from the command line/terminal and write <strong>git https://github.com/shadenalsahli/Car-Rental-System.git</strong>
 
 ## DEMO
 
